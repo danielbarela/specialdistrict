@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+---
+title: "Chocolate Chip Cookies"
+image: 
+  path: /images/chocolate-chip-cookies-lg.jpg
+  thumbnail: /images/chocolate-chip-cookies-400x200.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
+---
 
-You can use the [editor on GitHub](https://github.com/danielbarela/specialdistrict/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
 
-### Markdown
+This recipe makes 4 dozen cookies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ingredients
 
-```markdown
-Syntax highlighted code block
+* 2 1/4 cups all-purpose flour
+* 1 teaspoon baking soda
+* 1/2 teaspoon salt
+* 1 cup butter, softened and cut to pieces
+* 1 cup sugar
+* 1 cup light brown sugar, packed
+* 2 teaspoons vanilla extract
+* 2 large eggs
+* 2 cups semi-sweet chocolate chips
+* 1/2 teaspoon nutmeg (optional)
+* 1 cup chopped pecans or walnuts (optional)
 
-# Header 1
-## Header 2
-### Header 3
+## Directions
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielbarela/specialdistrict/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Preheat the oven to 350 F.
+2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
+3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
+4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
+5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow
